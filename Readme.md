@@ -8,6 +8,7 @@ Carlo Velarde
 
 ## About
 * This repository is the solution to Assignment 2 for CS:3980
+* It displays the US population data over a couple year span
 * The index.html file fetches the USA population over the last few years from an API endpoint provided by Data USA. 
 * The population data is displayed in a basic HTML table.
 * index.html is used for displaying the data (the table)

@@ -1,0 +1,23 @@
+td{
+   border:solid 1px black;
+   padding:8px;
+}
+
+th{
+   border:solid 1px black;
+   padding:8px;
+   font-weight:bolder;
+}
+
+table {
+   border: solid 1px black;
+   text-align:center;
+}
+
+.table {
+   display: flex;
+   margin-top:100px;
+   justify-content: center;
+}
+
+
